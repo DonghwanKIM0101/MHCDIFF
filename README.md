@@ -104,10 +104,10 @@ python main.py run.name={name} run.job=sample checkpoint.resume={global path for
 If you find this work useful, please consider citing our paper.
 
 ```
-@InProceedings{mhcdiff2024,
+@article{mhcdiff2024,
     author = {Kim, Donghwan and Kim, Tae-Kyun},
     title = {Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Image},
-    booktitle = {NeurIPS},
+    journal = {arXiv preprint arXiv:2409.18364},
     year = {2024}
 }
 ```
